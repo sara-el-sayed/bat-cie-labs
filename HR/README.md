@@ -24,11 +24,11 @@ All five live in [`Data/`](Data/):
 
 | File | Used in |
 | --- | --- |
-| `BAT_Flexible_Working_Pulse_Survey_SYNTHETIC_CLEAN.xlsx` | Exercise A1 (Excel) |
-| `BAT_Global_Flexible_Working_Framework_SYNTHETIC_CLEAN.docx` | Exercises A2, A3 + agent knowledge |
-| `BAT_Manager_Onboarding_Guide_SYNTHETIC_CLEAN.docx` | Agent knowledge |
-| `BAT_HR_Escalation_Guide_SYNTHETIC_CLEAN.docx` | Agent knowledge |
-| `BAT_Manager_FAQ_SYNTHETIC_CLEAN.docx` | Agent knowledge |
+| `BAT_Flexible_Working_Pulse_Survey_SYNTHETIC.xlsx` | Exercise A1 (Excel) |
+| `BAT_Global_Flexible_Working_Framework_SYNTHETIC.docx` | Exercises A2, A3 + agent knowledge |
+| `BAT_Manager_Onboarding_Guide_SYNTHETIC.docx` | Agent knowledge |
+| `BAT_HR_Escalation_Guide_SYNTHETIC.docx` | Agent knowledge |
+| `BAT_Manager_FAQ_SYNTHETIC.docx` | Agent knowledge |
 
 The Excel pulse survey is employee feedback, not policy — do not add it as the
 agent's knowledge source.
