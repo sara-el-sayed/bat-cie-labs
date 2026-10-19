@@ -13,7 +13,7 @@ Welcome. This repository holds the files for today's hands-on labs.
 **Option 2 — Clone with Git**
 
 ```bash
-git clone <REPO-URL>
+git clone https://github.com/sara-el-sayed/bat-cie-labs.git
 ```
 
 ## What's in here
