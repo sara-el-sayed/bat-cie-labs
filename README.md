@@ -21,7 +21,7 @@ git clone https://github.com/sara-el-sayed/bat-cie-labs.git
 | Folder | Lab track |
 | --- | --- |
 | [HR](HR/) | Human Resources |
-| [BM](BM/) | Brand Management |
+| [BM](BM/) | Trade Marketing & Distribution (TM&D) |
 | [Legal](Legal/) | Legal |
 | [Marketing](Marketing/) | Marketing |
 | [Sales](Sales/) | Sales |
