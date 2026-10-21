@@ -24,7 +24,7 @@ git clone https://github.com/sara-el-sayed/bat-cie-labs.git
 | [BM](BM/) | Trade Marketing & Distribution (TM&D) |
 | [Legal](Legal/) | Legal |
 | [Marketing](Marketing/) | Marketing |
-| [Sales](Sales/) | Sales |
+| [Sales](Sales/) | Sales / Customer Management |
 | [Finance](Finance/) | Finance |
 
 Open the folder for your track and follow along with the facilitator.
