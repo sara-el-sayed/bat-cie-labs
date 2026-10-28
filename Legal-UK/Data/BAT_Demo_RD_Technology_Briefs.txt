@@ -1,0 +1,14 @@
+FICTIONAL DEMO CONTENT - simplified technology summaries for the demo.
+R&D TECHNOLOGY BRIEFS BY TECHNOLOGY AREA (demo wiki page)
+
+HEATED TOBACCO (Families FAM-001 to FAM-006). Focus on induction heating with susceptor-based consumables, precise temperature control and insulation to reduce outer-surface temperature. Key R&D sites: Southampton (UK) and Hamburg (Germany). Supporting data: thermal profile test reports, aerosol chemistry studies. Technology Area Lead: Heated Tobacco TAL.
+
+VAPOUR / E-CIGARETTE (FAM-007 to FAM-012). Pod-based closed systems: leak resistance, mesh coils, child-resistant locking and battery safety. Supporting data: leak test protocols, coil lifetime studies, battery safety certifications. Technology Area Lead: Vapour TAL.
+
+ORAL NICOTINE (FAM-013 to FAM-017). Tobacco-free pouches using plant fibre fillers, moisture retention and controlled nicotine release. Supporting data: dissolution and release-rate studies, stability tests. Technology Area Lead: Modern Oral TAL.
+
+DEVICE CONNECTIVITY (FAM-018 to FAM-021). App-paired devices for age verification, usage insights with consent and device locking. Supporting data: security testing and privacy impact assessments. Technology Area Lead: Digital Devices TAL.
+
+SUSTAINABILITY & PACKAGING (FAM-022 to FAM-025). Biodegradable filters, plastic-free wrappers, recyclable pod packaging and paper-based tubes. Supporting data: biodegradation tests, life-cycle assessments. Technology Area Lead: Sustainability TAL.
+
+Known white-space questions R&D has raised: disposable vape recyclability, NFC pod authentication, cooling agents in oral pouches.

@@ -23,6 +23,7 @@ git clone https://github.com/sara-el-sayed/bat-cie-labs.git
 | [HR](HR/) | Human Resources |
 | [BM](BM/) | Trade Marketing & Distribution (TM&D) |
 | [Legal](Legal/) | Legal |
+| [Legal-UK](Legal-UK/) | Legal UK — IP & Patents |
 | [Marketing](Marketing/) | Marketing |
 | [Sales](Sales/) | Sales / Customer Management |
 | [Finance](Finance/) | Finance |

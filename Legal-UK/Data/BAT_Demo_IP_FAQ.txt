@@ -1,0 +1,48 @@
+FICTIONAL DEMO CONTENT - not real BAT policy. Replace with BAT's own IP knowledge before any pilot.
+BAT IP & PATENTS - FREQUENTLY ASKED QUESTIONS (demo wiki page)
+Owner: IP Legal team (Patents) | Last reviewed: September 2026 | Review cycle: 12 months
+
+Q1. Who decides whether an invention is filed as a patent?
+A. The Patent Review Board (PRB) decides, based on the invention disclosure form and an assessment by the responsible patent attorney. The PRB meets every second Tuesday of the month.
+
+Q2. How do I submit a new invention?
+A. Complete the Invention Disclosure Form (IDF) and send it to the IP Legal mailbox. See the Invention Disclosure Process page. Do not publish, present externally or share the idea with suppliers before the IDF has been reviewed.
+
+Q3. How long does it take to get a decision on an invention disclosure?
+A. Target is 30 working days from a complete IDF to a PRB decision. Urgent cases (for example a planned product launch or trade show within 60 days) can be fast-tracked by marking the IDF "Urgent".
+
+Q4. Can I talk about my invention at a conference?
+A. Only after a patent application has been filed and the IP Legal team has confirmed in writing. Any public disclosure before filing can destroy novelty.
+
+Q5. Who pays renewal fees and who decides to drop a patent?
+A. Renewal fees are paid centrally by IP Legal through external counsel. Each year, 90 days before a renewal falls due, the patent owner in the business is asked to confirm whether the patent is still commercially relevant. If no answer is received within 30 days, IP Legal escalates to the Technology Area Lead.
+
+Q6. What is a patent family?
+A. All patents and applications that protect the same invention in different countries share a Family ID (for example FAM-012). Decisions on scope and strategy are taken at family level.
+
+Q7. How do I find out if we already have a patent on a technology?
+A. Search the patent portfolio workbooks (one per region) by technology area, title or Family ID, or ask the Patent Portfolio Agent. For freedom-to-operate questions always contact IP Legal; the portfolio data is not a legal opinion.
+
+Q8. What is a freedom-to-operate (FTO) review and when do I need one?
+A. An FTO review checks whether a new product could infringe third-party patents. It is required before any new device, consumable or packaging goes into a market launch, and must be requested at least 4 months before launch.
+
+Q9. Who can access competitor patent data?
+A. The competitor patent watch list is available to IP Legal, R&D Technology Area Leads and Product Managers. Do not forward it outside BAT.
+
+Q10. Are inventors rewarded?
+A. Yes. Under the inventor recognition scheme, named inventors receive a recognition award when an application is filed and a further award when the first patent in the family is granted.
+
+Q11. What happens if a competitor opposes one of our patents?
+A. IP Legal manages the opposition with external counsel and informs the Technology Area Lead. The business is asked for technical evidence; requests usually have a 2-week turnaround.
+
+Q12. Who do I contact about licensing a BAT patent to a partner?
+A. Contact the IP Commercial & Licensing team. No licence, option or covenant not to sue may be offered without IP Legal approval.
+
+Q13. How do I get a copy of the R&D data supporting a patent?
+A. Request it through the R&D Data Request process. R&D target turnaround is 10 working days. Provide the Family ID and the specific data needed (test reports, prototypes, lab notebooks).
+
+Q14. Where are signed assignment documents stored?
+A. In the IP Legal document management system, filed by Family ID. Only IP Legal can access originals.
+
+Q15. Can I use generative AI to draft patent text?
+A. Only within approved Microsoft 365 Copilot tools, never with external public AI tools, and never with unfiled invention details outside the BAT tenant. All AI-assisted drafts must be reviewed by a qualified patent attorney.

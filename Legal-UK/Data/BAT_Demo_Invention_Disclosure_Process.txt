@@ -1,0 +1,13 @@
+FICTIONAL DEMO CONTENT - not real BAT policy.
+INVENTION DISCLOSURE AND FILING PROCESS (demo wiki page)
+Owner: IP Legal team (Patents)
+
+Step 1 - Capture. The inventor completes the Invention Disclosure Form (IDF): title, problem solved, how it works, what is new compared with existing products, drawings or test data, names of all contributors, planned disclosure dates.
+Step 2 - Submit. Send the IDF to the IP Legal mailbox. IP Legal acknowledges within 2 working days and assigns a patent attorney.
+Step 3 - Assess. The attorney runs a prior-art search (target 10 working days) and may ask R&D for supporting data through the R&D Data Request process.
+Step 4 - Decide. The Patent Review Board decides: file, keep as trade secret, publish defensively, or do not pursue. Target: 30 working days from a complete IDF.
+Step 5 - File. External counsel drafts the application; the inventor reviews the draft within 5 working days. First filing is usually a GB or EP priority application.
+Step 6 - International. Within 12 months of the priority date IP Legal decides on international filings (PCT and national phases) with the Technology Area Lead.
+Step 7 - Maintain. Renewal decisions are reviewed yearly, 90 days before each renewal date.
+
+Common reasons for delay: incomplete IDF (missing test data or contributor names), waiting for R&D data, inventor not available to review drafts, unclear commercial relevance.
