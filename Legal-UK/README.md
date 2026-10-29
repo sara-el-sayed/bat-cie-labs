@@ -12,7 +12,8 @@ Guide**, run during UK Functional Week.
 
 **[BAT_Legal_UK_Copilot_Lab_Guide.pdf](BAT_Legal_UK_Copilot_Lab_Guide.pdf)** — the full lab guide.
 
-**[BAT_Legal_Copilot_Demo_Kit_UK_Functional_Week.docx](BAT_Legal_Copilot_Demo_Kit_UK_Functional_Week.docx)** — the facilitator demo kit.
+**[PatentsWiki-Agent/](PatentsWiki-Agent/)** — the PatentsWiki AI-ready knowledge
+hub exercise: setup guide plus nine demo wiki pages for the agent.
 
 ## Source files
 

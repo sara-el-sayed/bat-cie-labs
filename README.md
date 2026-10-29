@@ -24,6 +24,7 @@ git clone https://github.com/sara-el-sayed/bat-cie-labs.git
 | [BM](BM/) | Trade Marketing & Distribution (TM&D) |
 | [Legal](Legal/) | Legal |
 | [Legal-UK](Legal-UK/) | Legal UK — IP & Patents |
+| [Legal-UK/PatentsWiki-Agent](Legal-UK/PatentsWiki-Agent/) | Legal UK — PatentsWiki knowledge hub & agent |
 | [Marketing](Marketing/) | Marketing |
 | [Sales](Sales/) | Sales / Customer Management |
 | [Finance](Finance/) | Finance |
